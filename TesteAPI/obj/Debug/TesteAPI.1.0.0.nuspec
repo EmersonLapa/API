@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TesteAPI</id>
+    <version>1.0.0</version>
+    <authors>TesteAPI</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Information\source\repos\TesteAPI\TesteAPI\bin\Debug\netcoreapp3.1\TesteAPI.runtimeconfig.json" target="lib\netcoreapp3.1\TesteAPI.runtimeconfig.json" />
+    <file src="C:\Users\Information\source\repos\TesteAPI\TesteAPI\bin\Debug\netcoreapp3.1\TesteAPI.dll" target="lib\netcoreapp3.1\TesteAPI.dll" />
+  </files>
+</package>

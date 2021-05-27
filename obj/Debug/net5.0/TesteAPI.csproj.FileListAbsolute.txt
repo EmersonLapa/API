@@ -1,0 +1,5 @@
+C:\Users\Information\source\repos\TesteAPI\obj\Debug\net5.0\TesteAPI.csproj.AssemblyReference.cache
+C:\Users\Information\source\repos\TesteAPI\obj\Debug\net5.0\TesteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Information\source\repos\TesteAPI\obj\Debug\net5.0\TesteAPI.AssemblyInfoInputs.cache
+C:\Users\Information\source\repos\TesteAPI\obj\Debug\net5.0\TesteAPI.AssemblyInfo.cs
+C:\Users\Information\source\repos\TesteAPI\obj\Debug\net5.0\TesteAPI.csproj.CoreCompileInputs.cache
